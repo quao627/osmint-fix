@@ -19,4 +19,4 @@ intersection = get_intersection(data["roads"], data["G_nodes"], data["node_dict_
 ```
 
 ## Troubleshooting
-Contact the author at: [email](mailto:qua@mit.edu)
+Contact the author at: [qua@mit.edu]
